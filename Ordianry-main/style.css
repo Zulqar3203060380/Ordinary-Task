@@ -1,0 +1,96 @@
+.btn-color{
+    background-color: #0e1c36;
+    color: #fff;
+    
+  }
+  
+  .profile-image-pic{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+  }
+  
+  
+  
+  .cardbody-color{
+    background-color: #ebf2fa;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+
+  .navbar-brand {
+    color: #230a77 !important;
+    margin-left: 2%;
+}
+
+.navitem a{
+  margin-right: 5px;
+}
+.form-control {
+  box-sizing: border-box;
+}
+.inputf {
+  width: 55% !important;
+   margin-left: 10%;
+   margin-top: 3%;
+   border-style: dashed;
+ 
+}
+.add{
+  margin-left: 55%;
+  margin-top: 1.2%;
+ gap: 5px;
+}
+.card{
+  margin-left: 1%;
+  background-color: lightblue; /* To wrap cards to the next row if they don't fit */
+
+  
+}
+.cardUi {
+  margin-left: 5%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top:2%;
+  
+}
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+.profile-card {
+  max-width: 400px;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card .profile-pic {
+  width: 150px;
+  height: 150px;
+  margin-top: -75px;
+  border: 5px solid white;
+  object-fit: cover;
+}
+
+.card-header {
+  background-color: #007bff;
+  height: 100px;
+}
+
+.card-title {
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
